@@ -1,4 +1,5 @@
-# mytvconfig
+# 盒子tv接口和软件
+[app]()
 
 ## Tvbox
 ### 个人维护tvbox
@@ -49,4 +50,20 @@
 - lunatv与tvbox配置互相转换
 
 `https://t.135168.xyz/lunatv2tvbox`
+
+## 盒子APP
+
+- 影视仓6.1
+
+`链接：https://pan.quark.cn/s/147e21533d40`
+
+- orionTV
+
+`链接：https://pan.quark.cn/s/97b8bfac7a5a`
+
+- OK影视3.3
+
+`链接：https://pan.quark.cn/s/0b6b4634438d`
+
+
 
