@@ -47,15 +47,7 @@
 
 - 18-1
 
-`https://github.huawuhen.store/https://raw.githubusercontent.com/huawuhen/tvbox_config/refs/heads/main/18gouchuan.m3u`
-
-- 18-2
-
-`https://github.huawuhen.store/https://raw.githubusercontent.com/huawuhen/tvbox_config/refs/heads/main/av-jpkr.m3u`
-
-- 18-3 
-
-`https://github.huawuhen.store/https://raw.githubusercontent.com/huawuhen/tvbox_config/refs/heads/main/index.js.md5`
+`https://github.huawuhen.store/https://raw.githubusercontent.com/huawuhen/tvbox_config/refs/heads/main/vod_missav.m3u`
 
 ## lunaTV等
 
